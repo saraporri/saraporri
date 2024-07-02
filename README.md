@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sara!</br> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FULL-STACK+DEVELOPER)](https://git.io/typing-svg)
+# 👋 Hi, I'm Sara!</br> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FULL-STACK+DEVELOPER)]
  After working in aviation for several years, I'm currently seeking new opportunities in development.</br>
 I've had my head in the clouds for too long, now I feel the need to keep my feet on the ground and my hands on a laptop, ready to build beautiful codes!
 
