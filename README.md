@@ -11,7 +11,7 @@ I've had my head in the clouds for too long, now I feel the need to keep my feet
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saraporricino) 
 </br></br>
 # 💻 Tech Stack:
