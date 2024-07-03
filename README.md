@@ -15,7 +15,7 @@ I've had my head in the clouds for too long, now I feel the need to keep my feet
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saraporricino) 
 </br></br>
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,bootstrap,sass,java,idea,postgres)</br></br>
+![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,bootstrap,sass,java,postgres)</br></br>
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraporri&theme=neon&layout=compact) </br>
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraporri&theme=neon&hide=prs,issues)</br>
